@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Dede Nanda Pratama</h1>
 <h3 align="center">I am a beginner developer from Indonesia</h3>
 
-<img align="right" alt="coding" width="600" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR1ZmNvbzNyeGwzbmNqc2d5ZGVhODZ5dHllbGxjc2UwbHJ3cmxnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"/>
+<img align="right" alt="coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmR1ZmNvbzNyeGwzbmNqc2d5ZGVhODZ5dHllbGxjc2UwbHJ3cmxnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedenanda&label=Profile%20views&color=0e75b6&style=flat" alt="dedenanda" /> </p>
