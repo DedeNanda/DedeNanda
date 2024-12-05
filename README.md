@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedenanda&label=Profile%20views&color=0e75b6&style=flat" alt="dedenanda" /> </p>
 
-- 🌱 I’m currently learning **Javascript and NodeJS**
+- 🌱 I’m currently learning **Javascript, NodeJS, and ReactJS**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
   
